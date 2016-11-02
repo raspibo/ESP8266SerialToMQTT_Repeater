@@ -3,14 +3,6 @@
 
 // If you want, you can define WiFi settings globally in Eclipse Environment Variables
 #ifndef WIFI_SSID
-	//#define WIFI_SSID "PleaseEnterSSID" // Put you SSID and Password here
-	//#define WIFI_PWD "PleaseEnterPass"
-	//#define WIFI_SSID "mysp" // Put you SSID and Password here
-	//#define WIFI_PWD "myserverportable"
-	//#define WIFI_SSID "home" // Put you SSID and Password here
-	//#define WIFI_PWD "szCiU595jpJ6E3VZ"
-	//#define WIFI_SSID "Alice-96581303" // Put you SSID and Password here
-	//#define WIFI_PWD "7qkdAOJBPoZU1bVByRGg2ZWEagNytxpZ"
 	#define WIFI_SSID "levelh" // Put you SSID and Password here
 	#define WIFI_PWD "leveldave"
 #endif
